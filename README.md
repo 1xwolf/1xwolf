@@ -1,15 +1,123 @@
-# 🐺 1xwolf
-+ Bot Developer | Web Developer | Cyber
-
-# 🧠 About Me 
-
-- name: 1xwolf
-- Saudi  <img width="12" height="12" alt="coin" src="https://github.com/user-attachments/assets/18a0d339-12bf-4957-b5b5-4249f8ec3660" /> 
 
 
+<div align="center">
+  <!-- Profile Views -->
+  
+  <a href="https://github.com/JoshuaThadi" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=1xwolf&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
+  
+  <!--<img src="https://img.shields.io/badge/Profile%20Views-12,391-5e81ac?style=for-the-badge&logo=github" />-->
 
-- Developer : Beginner 
-- Beginner developer and cybersecurity expert working on my future development
 
-# ⚙️ Skills
+  <!-- Total Stars -->
+  <a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/1xwolf?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
+
+  <!-- Followers -->
+  <a href="https://github.com/joshuathadi?tab=followers" target="_blank">
+    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/1xwolf?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
+</div>
+
+<img align="left" alt="coding-gif" width="400" src="https://github.com/1xwolf/1xwolf/blob/main/transparent_gitgif.gif" />
+
+
+
+<h1 align="center">🐺 1xwolf</h1>
+
+<p align="center">
+  Bot Chat Developer • Web Developer • Cybersecurity
+</p>
+<p align="center">
+  <ul>
+  🔵 Bots (Node.js)
+  🌐 Web Development
+  🔐 Cybersecurity Basics
+  ⚡ JavaScript & APIs
+  💠 Beginner Developer
+  🖥️ systems and networks
+</ul>
+</p>
+
+
+
+<p align="center">
+Always learning & improving
+</p>
+
+![download (2)](https://github.com/user-attachments/assets/ba9a33c5-0646-4f5a-9b91-ee5715e6d8e0)
+
+
+
+<!-- About Me -->
+
+
+
+
+<!-- GitHub Status -->
+<!--<h3 align="center">🌱 GitHub Status</h3>
+<div align="center">
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=joshuathadi&theme=nord&hide_border=false" alt="GitHub Streak Stats" />
+</div>-->
+
+<br/>
+
+<!-- Languages & Tools -->
+<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
+  <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+</div>
+
+<br/>
+
+<!-- Best Repositories -->
+<!--<div align="center">
+  <h3>⭐️ Best Repositories</h3>
+  <p align="center">
+    <a href="https://github.com/JoshuaThadi/Data-Science">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Data-Science&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+    <a href="https://github.com/JoshuaThadi/Artificial-Intelligence">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Artificial-Intelligence&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+    <a href="https://github.com/JoshuaThadi/Computer-Science">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Computer-Science&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+    <a href="https://github.com/JoshuaThadi/Minimalist">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Minimalist&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+  </p>
+</div>-->
+
+
+
+<!-- Tech Stack -->
+<h3 align="center">💻 Tech Stack</h3>
+<div align="center">
+
+<!-- Languages -->
+<p>
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+
+</div>
+
+</div>
+
+<br/>
+
+
+<!-- Ending -->
+
+
+<p align="center">
+  ⚠️ This README is uniquely designed by <strong>@1xwolf</strong>
+</p>
 
