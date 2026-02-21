@@ -24,7 +24,7 @@
 
 
 
-<h1 align="center">🐺 1xwolf</h1>
+<h1 align="center">🐺x-wolf</h1>
 
 <p align="center">
   Bot Chat Developer • Web Developer • Cybersecurity
