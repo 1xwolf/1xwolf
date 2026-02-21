@@ -48,7 +48,7 @@ Always learning & improving
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fb65c8e2-3ce3-4fa8-9075-a274ac9a09d9" width="350" height="350" />
+ 
 </p>
 
 
