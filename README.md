@@ -48,64 +48,28 @@ Always learning & improving
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2967f453-5853-44c8-90b7-03167a3cfbda" width="350" height="350" />
-  <img src="https://github.com/user-attachments/assets/58479ab3-7e51-45b7-ac40-d1b76990d233" width="350" height="350" />
+  <img src="https://github.com/user-attachments/assets/fb65c8e2-3ce3-4fa8-9075-a274ac9a09d9" width="350" height="350" />
 </p>
 
 
 
-
-
-<!-- About Me -->
-
-
-
-
-<!-- GitHub Status -->
-<!--<h3 align="center">🌱 GitHub Status</h3>
-<div align="center">
-  <img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=joshuathadi&theme=nord&hide_border=false" alt="GitHub Streak Stats" />
-</div>-->
-
-<br/>
 
 <!-- Languages & Tools -->
 <h3 align="center">Languages & Tools I Work With 👩‍💻 </h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,debian,gitlab" /><br>
   <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,react,nodejs" /><br>
+
+![github-user-contribution (2)](https://github.com/user-attachments/assets/7f1b3187-6df4-4484-889f-21d1745a1fb7)
+
   
-<br/>
+
 <p align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=1xwolf&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=1xwolf&theme=highcontrast&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=1xwolf&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
   
 </div>
-
-<br/>
-
-
-
-
-
-<!-- Best Repositories -->
-<!--<div align="center">
-  <h3>⭐️ Best Repositories</h3>
-  <p align="center">
-    <a href="https://github.com/JoshuaThadi/Data-Science">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Data-Science&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
-    <a href="https://github.com/JoshuaThadi/Artificial-Intelligence">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Artificial-Intelligence&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
-    <a href="https://github.com/JoshuaThadi/Computer-Science">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Computer-Science&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
-    <a href="https://github.com/JoshuaThadi/Minimalist">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Minimalist&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
-  </p>
-</div>-->
 
 
 
