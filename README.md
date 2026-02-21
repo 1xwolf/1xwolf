@@ -3,7 +3,7 @@
 <div align="center">
   <!-- Profile Views -->
   
-  <a href="https://github.com/JoshuaThadi" target="_blank">
+  <a href="https://github.com/1xwolf" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=1xwolf&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
   
   <!--<img src="https://img.shields.io/badge/Profile%20Views-12,391-5e81ac?style=for-the-badge&logo=github" />-->
@@ -14,7 +14,7 @@
     <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/1xwolf?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
 
   <!-- Followers -->
-  <a href="https://github.com/joshuathadi?tab=followers" target="_blank">
+  <a href="https://github.com/1xwolf?tab=followers" target="_blank">
     <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/1xwolf?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
 </div>
 
@@ -39,12 +39,18 @@
 </p>
 
 
-
 <p align="center">
 Always learning & improving
 </p>
 
-![download (2)](https://github.com/user-attachments/assets/ba9a33c5-0646-4f5a-9b91-ee5715e6d8e0)
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2967f453-5853-44c8-90b7-03167a3cfbda" width="350" height="350" />
+  <img src="https://github.com/user-attachments/assets/58479ab3-7e51-45b7-ac40-d1b76990d233" width="350" height="350" />
+</p>
+
+
 
 
 
@@ -63,15 +69,26 @@ Always learning & improving
 <br/>
 
 <!-- Languages & Tools -->
-<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
+<h3 align="center">Languages & Tools I Work With 👩‍💻 </h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-  <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,debian,gitlab" /><br>
+  <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,react,nodejs" /><br>
+  
+<br/>
+<p align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=1xwolf&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=1xwolf&theme=highcontrast&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=1xwolf&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+  
 </div>
 
 <br/>
+
+
+
+
 
 <!-- Best Repositories -->
 <!--<div align="center">
@@ -118,6 +135,6 @@ Always learning & improving
 
 
 <p align="center">
-  ⚠️ This README is uniquely designed by <strong>@1xwolf</strong>
+  This README is uniquely designed by <strong>@1xwolf</strong>
 </p>
 
