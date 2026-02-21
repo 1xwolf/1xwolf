@@ -35,7 +35,7 @@
   🌐 Web Development
   🔐 Cybersecurity Basics
   ⚡ JavaScript & APIs
-  💠 Beginner Developer
+  💠 Developer
   🖥️ systems and networks
 </ul>
 </p>
