@@ -33,14 +33,15 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Bots%20(Node.js)-000?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/-Web%20Development-000?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/-Cybersecurity-000?style=for-the-badge&logo=hackaday" />
+  <img src="https://img.shields.io/badge/Bots%20(Node.js)-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Web%20Development-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=shield&logoColor=00AEEF" />
   <br><br>
-  <img src="https://img.shields.io/badge/-JavaScript%20%26%20APIs-000?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Developer-000?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/-Systems%20%26%20Networks-000?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/JavaScript%20%26%20APIs-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Developer-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Systems%20%26%20Networks-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
 </p>
+
 
 
 <p align="center">
