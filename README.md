@@ -31,18 +31,6 @@
   <br>
     مطور برامج دردشة آلية • مطور مواقع ويب • الأمن السيبراني
 
-                                                       
-</p>
-<p align="center">
-  <ul>
-  💠Bots (Node.js) |
-  💠Web Development |
-  💠Cybersecurity Basics |
-  💠JavaScript & APIs |
-  💠Developer |
-  💠systems and networks 
-</ul>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Bots%20(Node.js)-000?style=for-the-badge&logo=node.js" />
