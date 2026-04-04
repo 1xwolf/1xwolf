@@ -40,6 +40,8 @@
   <img src="https://img.shields.io/badge/JavaScript%20%26%20APIs-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Developer-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Systems%20%26%20Networks-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
+
 </p>
 
 
