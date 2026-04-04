@@ -58,7 +58,7 @@ Always learning & improving
 
 
 <!-- Languages & Tools -->
-<h3 align="center">Languages & Tools I Work With 💠</h3>
+<h3 align="center">Languages & Tools I Work With </h3>
 <p align="center">اللغات والأدوات التي أستخدمها 🧑‍💻 </p>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,debian,gitlab" /><br>
@@ -78,7 +78,7 @@ Always learning & improving
 
 
 <!-- Tech Stack -->
-<h3 align="center"> 💠 Tech Stack </h3>
+<h3 align="center">  Tech Stack </h3>
 <p align="center"> مجموعة التقنيات التي عملت بها 👩‍💻</p>
 <div align="center">
 
