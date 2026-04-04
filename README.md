@@ -44,6 +44,16 @@
 </ul>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-Bots%20(Node.js)-000?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/-Web%20Development-000?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/-Cybersecurity-000?style=for-the-badge&logo=hackaday" />
+  <br><br>
+  <img src="https://img.shields.io/badge/-JavaScript%20%26%20APIs-000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Developer-000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-Systems%20%26%20Networks-000?style=for-the-badge&logo=linux" />
+</p>
+
 
 <p align="center">
 Always learning & improving
