@@ -35,12 +35,12 @@
 </p>
 <p align="center">
   <ul>
-  🔵 Bots (Node.js)
-   Web Development
-   Cybersecurity Basics
-   JavaScript & APIs
-  💠 Developer
-   systems and networks
+  🔵Bots (Node.js) |
+   Web Development |
+   Cybersecurity Basics |
+   JavaScript & APIs |
+  💠 Developer |
+   systems and networks 
 </ul>
 </p>
 
