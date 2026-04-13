@@ -1,5 +1,4 @@
-
-
+![PixeLɑnd ◇](https://github.com/user-attachments/assets/4abcb0df-fe4b-4297-8f3a-ea1806550cad)
 
 <div align="center">
   <!-- Profile Views -->
