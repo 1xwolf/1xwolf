@@ -27,8 +27,6 @@
 <p align="center">
   Bot Chat Developer • Web Developer • Cybersecurity <br>
   <br>
-    مطور برامج دردشة آلية • مطور مواقع ويب • الأمن السيبراني
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bots%20(Node.js)-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
